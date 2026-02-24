@@ -1,3 +1,8 @@
 export function Login() {
-  return <h1>Login Page</h1>;
+  return (
+    <div>
+      <h2>Login Page</h2>
+      <p>Welcome to Student Project Management System</p>
+    </div>
+  );
 }
